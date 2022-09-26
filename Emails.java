@@ -1,7 +1,7 @@
 package net.simplyanalytics.constants;
 
 public enum Emails {
-  
+  //hello
   ACTIVATION("Welcome to SimplyAnalytics - Please Activate Account"),
   DATA_EXPORTED("Data exported from SimplyAnalytics"),
   RESET_PASSWORD("SimplyAnalytics Password Assistance"),
