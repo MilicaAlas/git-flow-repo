@@ -1,5 +1,5 @@
 package net.simplyanalytics.constants;
-
+test
 public class EditViewWarning {
   
   public static final String LOCATION_MISSING = "Please select a location to view the report.";
